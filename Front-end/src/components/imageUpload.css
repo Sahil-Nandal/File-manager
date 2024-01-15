@@ -1,0 +1,14 @@
+.outerDiv{
+    background-image: url('../assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.displaySec{
+    height: 650px;
+    width: 700px;
+}
+
+.uploadedImgs{
+    margin: 5px;
+}

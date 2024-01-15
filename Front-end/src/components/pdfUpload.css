@@ -1,0 +1,32 @@
+.outerDiv{
+    background-image: url('../assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headingSec{
+    display: flex;
+}
+
+.pdfGoBack{
+    margin-left: auto;
+}
+
+.pdfDisplaySec{
+    height: 300px;
+}
+
+.pdfText{
+    color: white;
+}
+
+.getPdfSec{
+    display: flex;
+    /* margin-left: 200px; */
+}
+
+.uploaded{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
